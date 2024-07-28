@@ -1,0 +1,2207 @@
+[
+    {
+        "date": "2024-07-28",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 16.4,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 18.1,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 3.82,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 13.56,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 29.78,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 18.35,
+                "company": "Lineage Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-07-29",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 16.53,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 17.96,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 4.29,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 12.81,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 29.53,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 18.88,
+                "company": "Mainfreight"
+            }
+        ]
+    },
+    {
+        "date": "2024-07-30",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 17.45,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 17.37,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 3.94,
+                "company": "Ryder"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 12.61,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 29.27,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 19.36,
+                "company": "DB Schenker"
+            }
+        ]
+    },
+    {
+        "date": "2024-07-31",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 17.37,
+                "company": "Lineage Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 16.89,
+                "company": "Amazon Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 4.74,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 12.04,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 30.27,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 18.69,
+                "company": "Kuehne + Nagel"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-01",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 16.6,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 16.27,
+                "company": "Mainfreight"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 5.59,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 12.78,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 30.11,
+                "company": "Expeditors"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 18.64,
+                "company": "Landstar System"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-02",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 16.65,
+                "company": "CEVA Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 15.7,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 5.36,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 13.46,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 29.47,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 19.36,
+                "company": "GEFCO"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-03",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 17.16,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 14.77,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 6.04,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 13.43,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 28.65,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 19.95,
+                "company": "Geodis"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-04",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 17.05,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 14.93,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 5.5,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 13.93,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 28.76,
+                "company": "Ryder"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 19.82,
+                "company": "TFI International"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-05",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 16.94,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 15.3,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 6.28,
+                "company": "Penske Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 12.84,
+                "company": "Expeditors"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 29.2,
+                "company": "Mainfreight"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 19.46,
+                "company": "Toll Group"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-06",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 17.35,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 15.69,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 5.63,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 12.79,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 29.47,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 19.07,
+                "company": "Kuehne + Nagel"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-07",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 16.49,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 16.19,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 5.81,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 11.93,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 29.54,
+                "company": "SNCF Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 20.04,
+                "company": "Norbert Dentressangle"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-08",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 16.42,
+                "company": "Expeditors"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 16.65,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 6.41,
+                "company": "Lineage Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 11.09,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 29.2,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 20.22,
+                "company": "DSV"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-09",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 15.77,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 16.82,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 6.87,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 10.3,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 29.96,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 20.29,
+                "company": "DSV"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-10",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 15.38,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 16.89,
+                "company": "Lineage Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 7.07,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 10.62,
+                "company": "C.H. Robinson"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 29.67,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 20.37,
+                "company": "TFI International"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-11",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 16.3,
+                "company": "Penske Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 16.49,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 6.12,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 10.7,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 29.61,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 20.78,
+                "company": "Mainfreight"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-12",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 16.64,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 16.38,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 6.56,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 11.15,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 28.8,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 20.47,
+                "company": "SNCF Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-13",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 16.27,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 16.97,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 6.02,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 10.87,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 28.81,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 21.05,
+                "company": "Transplace"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-14",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 16.55,
+                "company": "C.H. Robinson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 16.75,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 6.39,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 11.08,
+                "company": "Penske Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 28.56,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 20.67,
+                "company": "DB Schenker"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-15",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 16.12,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 16.92,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 6.67,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 10.52,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 28.49,
+                "company": "Amazon Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 21.27,
+                "company": "Geodis"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-16",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 16.73,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 16.38,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 5.67,
+                "company": "DB Schenker"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 11.37,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 27.85,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 22.01,
+                "company": "Toll Group"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-17",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 16.42,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 16.48,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 5.1,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 10.94,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 28.01,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 23.05,
+                "company": "Mainfreight"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-18",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 16.33,
+                "company": "CEVA Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 16.32,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 5.38,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 10.93,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 28.34,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 22.71,
+                "company": "Geodis"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-19",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 16.45,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 16.36,
+                "company": "Amazon Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 5.51,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 10.44,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 28.72,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 22.52,
+                "company": "DSV"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-20",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 16.0,
+                "company": "Expeditors"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 17.04,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 5.01,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 10.17,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 28.51,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 23.28,
+                "company": "Geodis"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-21",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 15.37,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 16.08,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP710",
+                "percentage": 5.6,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 10.91,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 28.99,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 23.04,
+                "company": "Amazon Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-22",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 15.65,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 15.58,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 5.71,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 11.3,
+                "company": "SNCF Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 28.41,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 23.35,
+                "company": "Lineage Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-23",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 16.07,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 16.31,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 5.74,
+                "company": "CEVA Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 11.55,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 27.44,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 22.89,
+                "company": "DHL"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-24",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 16.45,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 16.2,
+                "company": "CEVA Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 5.48,
+                "company": "Amazon Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 12.32,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 26.98,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 22.57,
+                "company": "Bollor\u00e9 Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-25",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 16.0,
+                "company": "Penske Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 16.19,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 5.47,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 11.86,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 27.1,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 23.38,
+                "company": "Amazon Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-26",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 15.34,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 15.58,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 6.36,
+                "company": "Mainfreight"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 11.87,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 26.84,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 24.01,
+                "company": "Amazon Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-27",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 15.16,
+                "company": "DB Schenker"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 15.62,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 7.23,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 12.06,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 26.25,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 23.67,
+                "company": "C.H. Robinson"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-28",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 14.33,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 16.24,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 7.14,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 11.82,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 26.6,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 23.87,
+                "company": "CEVA Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-29",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 13.46,
+                "company": "SNCF Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 16.96,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 6.6,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 11.57,
+                "company": "Amazon Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 27.39,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 24.02,
+                "company": "Geodis"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-30",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 13.38,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 17.74,
+                "company": "CEVA Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 5.97,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 11.36,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 27.36,
+                "company": "Agility Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 24.19,
+                "company": "Bollor\u00e9 Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-08-31",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 14.31,
+                "company": "Expeditors"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP710",
+                "percentage": 17.22,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 6.47,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 11.6,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 26.65,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 23.75,
+                "company": "Panalpina"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-01",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 13.74,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 18.02,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 5.89,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 11.18,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 27.73,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 23.44,
+                "company": "Kuehne + Nagel"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-02",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 13.88,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 17.82,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 5.93,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 10.55,
+                "company": "SNCF Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 27.71,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 24.12,
+                "company": "Nippon Express"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-03",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 13.08,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 17.88,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 6.67,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 11.06,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 27.65,
+                "company": "C.H. Robinson"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 23.66,
+                "company": "XPO Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-04",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 12.88,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 18.26,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 7.09,
+                "company": "DB Schenker"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 10.59,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 27.25,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 23.94,
+                "company": "Agility Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-05",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 13.91,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 17.45,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 6.61,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 9.82,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 28.22,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 23.99,
+                "company": "UPS"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-06",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 14.69,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 16.91,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 7.23,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 9.07,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP710",
+                "percentage": 28.72,
+                "company": "SNCF Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 23.37,
+                "company": "XPO Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-07",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 13.67,
+                "company": "Penske Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 17.65,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP710",
+                "percentage": 7.2,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 8.76,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 28.86,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 23.86,
+                "company": "Expeditors"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-08",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 13.51,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 16.97,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 7.28,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 8.1,
+                "company": "Mainfreight"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 29.44,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 24.69,
+                "company": "C.H. Robinson"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-09",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 13.72,
+                "company": "Lineage Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 16.7,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 7.77,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 8.32,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 28.83,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 24.66,
+                "company": "Hub Group"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-10",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 14.19,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 17.4,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 7.06,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 8.44,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 28.67,
+                "company": "Ryder"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 24.24,
+                "company": "SNCF Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-11",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 14.17,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 18.16,
+                "company": "Geodis"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP710",
+                "percentage": 6.57,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 8.45,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 28.44,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 24.21,
+                "company": "Mainfreight"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-12",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 13.42,
+                "company": "C.H. Robinson"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 17.52,
+                "company": "DSV"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 6.44,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 9.15,
+                "company": "Amazon Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 29.42,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 24.05,
+                "company": "TFI International"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-13",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 13.13,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 17.99,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 5.8,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 8.85,
+                "company": "C.H. Robinson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 29.48,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 24.74,
+                "company": "Transplace"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-14",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 13.33,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 18.34,
+                "company": "Landstar System"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 5.3,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 8.35,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 29.86,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 24.81,
+                "company": "Hub Group"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-15",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 14.14,
+                "company": "Ryder"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 17.76,
+                "company": "Mainfreight"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 4.51,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 8.63,
+                "company": "Lineage Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 29.79,
+                "company": "C.H. Robinson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 25.17,
+                "company": "Hellmann Worldwide"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-16",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 14.44,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 18.03,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 4.35,
+                "company": "Lineage Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 8.22,
+                "company": "Penske Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 29.99,
+                "company": "Expeditors"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 24.96,
+                "company": "Nippon Express"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-17",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 14.01,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 17.47,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 4.91,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 8.97,
+                "company": "Ryder"
+            },
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 30.38,
+                "company": "CEVA Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LPS",
+                "percentage": 24.27,
+                "company": "DACHSER"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-18",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 14.99,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 16.84,
+                "company": "DB Schenker"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 5.43,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 8.78,
+                "company": "SNCF Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 29.89,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 24.08,
+                "company": "Geodis"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-19",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 15.02,
+                "company": "Mainfreight"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 16.24,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz Econic",
+                "percentage": 5.69,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 9.11,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG",
+                "percentage": 29.91,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 24.04,
+                "company": "Hub Group"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-20",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 15.64,
+                "company": "DHL"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 15.94,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 5.63,
+                "company": "C.H. Robinson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 9.05,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 30.35,
+                "company": "Toll Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 23.39,
+                "company": "Kuehne + Nagel"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-21",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 14.92,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz T2",
+                "percentage": 16.24,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 5.76,
+                "company": "Nippon Express"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 8.48,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 31.42,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz Unimog",
+                "percentage": 23.18,
+                "company": "J.B. Hunt"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-22",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 14.41,
+                "company": "Matson"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN1",
+                "percentage": 17.52,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 5.15,
+                "company": "DB Schenker"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 8.52,
+                "company": "CEVA Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS",
+                "percentage": 31.16,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 23.25,
+                "company": "Agility Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-23",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 14.45,
+                "company": "Mainfreight"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 16.88,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 4.31,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 8.07,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 32.36,
+                "company": "Lineage Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 23.92,
+                "company": "FedEx"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-24",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz L",
+                "percentage": 14.13,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 16.92,
+                "company": "Hellmann Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 3.92,
+                "company": "SNCF Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L4500",
+                "percentage": 8.99,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 32.43,
+                "company": "Bollor\u00e9 Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 23.61,
+                "company": "Penske Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-25",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 14.49,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz Actros",
+                "percentage": 16.53,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP813",
+                "percentage": 3.03,
+                "company": "Sinotrans"
+            },
+            {
+                "truck_name": "Mercedes-Benz Axor",
+                "percentage": 8.52,
+                "company": "Kuehne + Nagel"
+            },
+            {
+                "truck_name": "Mercedes-Benz Antos",
+                "percentage": 32.77,
+                "company": "UPS"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 24.66,
+                "company": "Hellmann Worldwide"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-26",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz SK",
+                "percentage": 13.82,
+                "company": "Transplace"
+            },
+            {
+                "truck_name": "Mercedes-Benz LA911",
+                "percentage": 16.79,
+                "company": "Ryder"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 2.16,
+                "company": "FedEx"
+            },
+            {
+                "truck_name": "Mercedes-Benz Zetros",
+                "percentage": 9.34,
+                "company": "Amazon Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz LN2",
+                "percentage": 33.12,
+                "company": "YRC Worldwide"
+            },
+            {
+                "truck_name": "Mercedes-Benz Atego",
+                "percentage": 24.77,
+                "company": "Lineage Logistics"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-27",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LK",
+                "percentage": 12.9,
+                "company": "DACHSER"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP710",
+                "percentage": 17.8,
+                "company": "DB Schenker"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP",
+                "percentage": 1.78,
+                "company": "Panalpina"
+            },
+            {
+                "truck_name": "Mercedes-Benz NG73",
+                "percentage": 9.53,
+                "company": "J.B. Hunt"
+            },
+            {
+                "truck_name": "Mercedes-Benz LP608",
+                "percentage": 32.7,
+                "company": "TFI International"
+            },
+            {
+                "truck_name": "Mercedes-Benz LS1632",
+                "percentage": 25.29,
+                "company": "YRC Worldwide"
+            }
+        ]
+    },
+    {
+        "date": "2024-09-28",
+        "trucks": [
+            {
+                "truck_name": "Mercedes-Benz LS1620",
+                "percentage": 12.4,
+                "company": "Norbert Dentressangle"
+            },
+            {
+                "truck_name": "Mercedes-Benz LO",
+                "percentage": 18.53,
+                "company": "GEFCO"
+            },
+            {
+                "truck_name": "Mercedes-Benz Vario",
+                "percentage": 0.93,
+                "company": "DB Schenker"
+            },
+            {
+                "truck_name": "Mercedes-Benz SK88",
+                "percentage": 9.56,
+                "company": "Hub Group"
+            },
+            {
+                "truck_name": "Mercedes-Benz Arocs",
+                "percentage": 33.24,
+                "company": "XPO Logistics"
+            },
+            {
+                "truck_name": "Mercedes-Benz L-Series",
+                "percentage": 25.34,
+                "company": "Transplace"
+            }
+        ]
+    }
+]
